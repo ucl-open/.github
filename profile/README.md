@@ -59,3 +59,6 @@ Python readers use the schema to interpret:
 - which workflow + git commit produced the data (To allow complete recreation of experiment)
 
 ---
+
+## Flowchart
+![Flowchart](./flo.drawio.svg)
