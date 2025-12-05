@@ -1,4 +1,4 @@
-# Streamlined Architecture Overview
+# Architecture Overview
 
 We propose a clean separation between:
 
